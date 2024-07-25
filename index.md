@@ -7,3 +7,8 @@ this is a **bold**
 ```javascript
 var m = "hello";
 ```
+
+-[ ] one
+- [ ] two
+- [ ] three
+- [x] four
