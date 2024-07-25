@@ -3,3 +3,7 @@ this is a *text*
 this is a **bold**
 # jjj #
 ![Imagen](/)
+
+```javascript
+var m = "hello";
+```
